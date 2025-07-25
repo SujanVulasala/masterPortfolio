@@ -5,6 +5,10 @@
 <h1 align="center"> Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
+
+[GIF](https://github.com/SujanVulasala/masterPortfolio/blob/main/Sujans%20Portfolio%20-%20Google%20Chrome%202025-07-25%2012-10-42.gif)
+
+
 <p align="center">
   <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v20.11.1"><img alt="NodeJS" src="https://img.shields.io/badge/node-20.11.1-important?style=flat-square" /></a>
