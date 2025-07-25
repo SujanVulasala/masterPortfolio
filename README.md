@@ -6,7 +6,7 @@
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
 
-<p> <a><img src="Sujans Portfolio - Google Chrome 2025-07-25 12-10-42.gif" /.</a> </p>
+<p align="center"> <a><img src="Sujans Portfolio - Google Chrome 2025-07-25 12-10-42.gif" /.</a> </p>
 
 
 <p align="center">
